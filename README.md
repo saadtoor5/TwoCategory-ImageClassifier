@@ -46,6 +46,7 @@ TwoCategory-ImageClassifier/
 │   ├── class1/                   # First category (e.g., Car)
 │   └── class2/                   # Second category (e.g., Bike)
 ├── two_category_classifier.py    # Main training and prediction script
+├── two_category_classifier.ipynb # Jupyter Notebook
 ├── requirements.txt              # Required libraries and dependencies
 ├── README.md                     # Project overview
 ```
