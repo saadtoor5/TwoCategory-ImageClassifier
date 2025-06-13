@@ -102,4 +102,4 @@ This project is licensed under the [MIT License](LICENSE)
 
 ## 👨‍💻 Author
 
-Made by [@saadtoor5](https://github.com/saadtoor5) — feel free to fork, contribute, or star the repo!
+Made by [@saadtoorx](https://github.com/saadtoorx) — feel free to fork, contribute, or star the repo!
